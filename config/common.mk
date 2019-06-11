@@ -96,7 +96,7 @@ PRODUCT_PACKAGES += \
     Development \
     SpareParts \
     LockClock \
-    SubstratumKey
+    SubstratumSignature
 
 # Optional packages
 PRODUCT_PACKAGES += \
