@@ -95,7 +95,8 @@ PRODUCT_PACKAGES += \
     CellBroadcastReceiver \
     Development \
     SpareParts \
-    LockClock
+    LockClock \
+    SubstratumKey
 
 # Optional packages
 PRODUCT_PACKAGES += \
@@ -147,8 +148,7 @@ PRODUCT_PACKAGES += \
 
 # AICP packages
 PRODUCT_PACKAGES += \
-    AicpExtras \
-    TilesWallpaper
+    AicpExtras
 
 include packages/overlays/AICP/product_packages.mk
 
