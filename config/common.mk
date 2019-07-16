@@ -96,7 +96,11 @@ PRODUCT_PACKAGES += \
     Development \
     SpareParts \
     LockClock \
-    SubstratumSignature
+    SubstratumSignature \
+    RetroMusicPlayer \
+    Dialer \
+    Messaging \
+    Contacts
 
 # Optional packages
 PRODUCT_PACKAGES += \
@@ -122,10 +126,6 @@ PRODUCT_PACKAGES += \
 # DSPManager
 PRODUCT_PACKAGES += \
     DSPManager
-
-# Phonograph
-PRODUCT_PACKAGES += \
-    Phonograph
 
 # Jelly
 PRODUCT_PACKAGES += \
